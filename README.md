@@ -21,5 +21,3 @@ Utilisez un IDE comme IntelliJ, ouvrez le projet, puis exécutez `Main.java`.
 ## Auteur
 
 EzechielAKE
-
-Ajout du README
